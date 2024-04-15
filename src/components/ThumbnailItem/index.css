@@ -1,0 +1,9 @@
+/* Write your code here. */
+.thumb-image {
+  margin: 10px;
+  background-color: transparent;
+  border-width: 0px;
+}
+.active-tab-btn {
+  display: block;
+}
